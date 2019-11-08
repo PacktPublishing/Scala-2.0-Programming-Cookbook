@@ -1,0 +1,25 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/temp/src/test/resources",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/out/temp/test/compile/dest/classes",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/temp/src/main/resources",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/out/temp/compile/dest/classes",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/core/src/main/resources",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/out/core/compile/dest/classes",
+        "qref:0865e6ca:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar",
+        "qref:eff477e5:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.10.0/circe-numbers_2.12-0.10.0.jar",
+        "qref:a7ece2ca:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.4.0/cats-kernel_2.12-1.4.0.jar",
+        "qref:41b3c7fe:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar",
+        "qref:7fea04c0:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.4.0/cats-core_2.12-1.4.0.jar",
+        "qref:05364630:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar",
+        "qref:6f7c8232:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar",
+        "qref:86dba2fd:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.4.0/cats-macros_2.12-1.4.0.jar",
+        "qref:726205c7:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar",
+        "qref:8f5bfbd9:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/activation/activation/1.1/activation-1.1.jar",
+        "qref:07a1029c:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.12/0.10.0/circe-core_2.12-0.10.0.jar",
+        "qref:9236d719:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar",
+        "qref:471b7183:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.5/machinist_2.12-0.6.5.jar"
+    ],
+    "valueHash": -753888373,
+    "inputsHash": 1324857637
+}

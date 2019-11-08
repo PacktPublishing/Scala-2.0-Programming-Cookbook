@@ -1,0 +1,8 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-simple-app/cookbook/test/resources",
+        "ref:417d5c9f:/Users/kabiridris/scala-cookbook/mill-simple-app/out/cookbook/test/compile/dest/classes"
+    ],
+    "valueHash": 221453993,
+    "inputsHash": 610314261
+}

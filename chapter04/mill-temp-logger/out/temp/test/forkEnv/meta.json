@@ -1,0 +1,33 @@
+{
+    "value": {
+        "SHELL": "/bin/bash",
+        "LOGNAME": "kabiridris",
+        "PATH": "/usr/local/mysql/bin:/Users/kabiridris/composer.phar:/Users/kabiridris/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "TERM": "xterm-256color",
+        "XPC_SERVICE_NAME": "0",
+        "TERM_PROGRAM": "Apple_Terminal",
+        "HORUS_ENV": "dev",
+        "JAVA_HOME": "/Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home",
+        "JAVA_MAIN_CLASS_12461": "mill.main.MillServerMain",
+        "HOME": "/Users/kabiridris",
+        "Apple_PubSub_Socket_Render": "/private/tmp/com.apple.launchd.cpSScf6O6F/Render",
+        "USER": "kabiridris",
+        "__CF_USER_TEXT_ENCODING": "0x1F5:0:2",
+        "AT_RESOLVER_REALM": "Sonatype Nexus Repository Manager",
+        "XPC_FLAGS": "0x0",
+        "TMPDIR": "/var/folders/5v/35wj1mbj3x3bscwdp_88cbh40000gn/T/",
+        "TERM_SESSION_ID": "6B9037DA-4E3C-46BD-900A-0788B9D9973C",
+        "SHLVL": "1",
+        "TERM_PROGRAM_VERSION": "421.2",
+        "JAVA_MAIN_CLASS_12458": "mill.main.client.MillClientMain",
+        "PWD": "/Users/kabiridris/scala-cookbook/mill-temp-logger",
+        "LC_CTYPE": "UTF-8",
+        "BINGE_ENV": "dev",
+        "AT_RESOLVER_PASS": "ndalati01",
+        "AT_RESOLVER_USER": "binkabir",
+        "AT_RESOLVER_HOST": "deino.at-internal.com",
+        "SSH_AUTH_SOCK": "/private/tmp/com.apple.launchd.TSdoPo5z7Y/Listeners"
+    },
+    "valueHash": 198661902,
+    "inputsHash": -1981949957
+}

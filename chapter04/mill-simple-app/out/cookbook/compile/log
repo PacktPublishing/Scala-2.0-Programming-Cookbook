@@ -1,0 +1,5 @@
+warning: there were three deprecation warnings (since 2.12.0); re-run with -deprecation for details
+warning: there were three feature warnings; re-run with -feature for details
+two warnings found
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /Users/kabiridris/scala-cookbook/mill-simple-app/out/cookbook/compile/dest/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

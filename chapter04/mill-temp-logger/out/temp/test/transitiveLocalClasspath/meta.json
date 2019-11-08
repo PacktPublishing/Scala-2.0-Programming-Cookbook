@@ -1,0 +1,10 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/temp/src/main/resources",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/out/temp/compile/dest/classes",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/core/src/main/resources",
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/out/core/compile/dest/classes"
+    ],
+    "valueHash": 638825120,
+    "inputsHash": 2072861712
+}

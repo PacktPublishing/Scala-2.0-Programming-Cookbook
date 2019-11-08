@@ -1,0 +1,7 @@
+run
+exit
+reload
+run
+reload
+compile
+test

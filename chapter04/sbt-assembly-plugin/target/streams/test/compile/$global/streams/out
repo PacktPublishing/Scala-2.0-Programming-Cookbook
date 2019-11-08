@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kabiridris/scala-cookbook/sbt-docker-plugin/src/test/scala/com/cookbook/AdderSpec.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest._ [0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kabiridris/scala-cookbook/sbt-docker-plugin/src/test/scala/com/cookbook/AdderSpec.scala:5:25: not found: type FlatSpec[0m
+[0m[[0m[31merror[0m] [0m[0mclass AdderSpec extends FlatSpec with Matchers{[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kabiridris/scala-cookbook/sbt-docker-plugin/src/test/scala/com/cookbook/AdderSpec.scala:5:39: not found: type Matchers[0m
+[0m[[0m[31merror[0m] [0m[0mclass AdderSpec extends FlatSpec with Matchers{[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kabiridris/scala-cookbook/sbt-docker-plugin/src/test/scala/com/cookbook/AdderSpec.scala:7:23: value should is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m  "The add function " should " take two integers and add them together " in {[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kabiridris/scala-cookbook/sbt-docker-plugin/src/test/scala/com/cookbook/AdderSpec.scala:8:26: not found: value add[0m
+[0m[[0m[31merror[0m] [0m[0m              val add1 = add(2,3)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

@@ -1,0 +1,16 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-simple-app/cookbook/resources",
+        "ref:f4f660a5:/Users/kabiridris/scala-cookbook/mill-simple-app/out/cookbook/compile/dest/classes",
+        "qref:0865e6ca:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar",
+        "qref:41b3c7fe:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar",
+        "qref:7d5be3a4:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/joda/joda-convert/2.2.0/joda-convert-2.2.0.jar",
+        "qref:05364630:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar",
+        "qref:6f7c8232:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar",
+        "qref:87ae2e24:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.12/2.22.0/nscala-time_2.12-2.22.0.jar",
+        "qref:625d0b6f:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar",
+        "qref:9236d719:/Users/kabiridris/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar"
+    ],
+    "valueHash": 1994766535,
+    "inputsHash": -903539660
+}

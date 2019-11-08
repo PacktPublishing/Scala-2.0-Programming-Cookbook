@@ -1,0 +1,5 @@
+{
+    "value": "@ 2>/dev/null # 2>nul & echo off & goto BOF\r\n:\nexec java  $JAVA_OPTS -cp \"$0\" cookbook.Main \"$@\"\nexit\n\r\n:BOF\r\n@echo off\r\njava  %JAVA_OPTS% -cp \"%~dpnx0\" cookbook.Main %*\r\nexit /B %errorlevel%\r\n",
+    "valueHash": -834277955,
+    "inputsHash": -480017525
+}

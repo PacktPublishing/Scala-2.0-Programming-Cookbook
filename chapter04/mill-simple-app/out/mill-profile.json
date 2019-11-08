@@ -1,0 +1,282 @@
+[
+    {
+        "label": "mill.scalalib.ZincWorkerModule.scalalibClasspath",
+        "millis": 23,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.forkArgs",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.forkEnv",
+        "millis": 6,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.testFrameworks",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.resources",
+        "millis": 80,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.classpath",
+        "millis": 5,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.compilerInterfaceClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 80,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.upstreamCompileOutput",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.sources",
+        "millis": 17,
+        "cached": false
+    },
+    {
+        "label": "cookbook.generatedSources",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.allSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.allSourceFiles",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.transitiveLocalClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.resources",
+        "millis": 5,
+        "cached": false
+    },
+    {
+        "label": "cookbook.unmanagedClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.platformSuffix",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.scalaOrganization",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.scalaLibraryIvyDeps",
+        "millis": 31,
+        "cached": true
+    },
+    {
+        "label": "cookbook.ivyDeps",
+        "millis": 3,
+        "cached": true
+    },
+    {
+        "label": "cookbook.transitiveIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.compileClasspath",
+        "millis": 2,
+        "cached": true
+    },
+    {
+        "label": "cookbook.javacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.scalacOptions",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.scalaCompilerClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.scalacPluginIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.scalacPluginClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.compile",
+        "millis": 5,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.upstreamCompileOutput",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.sources",
+        "millis": 6,
+        "cached": false
+    },
+    {
+        "label": "cookbook.test.generatedSources",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.allSources",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.allSourceFiles",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.localClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.transitiveLocalClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.unmanagedClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.scalaVersion",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.platformSuffix",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.scalaOrganization",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.scalaLibraryIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.ivyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.transitiveIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.compileClasspath",
+        "millis": 2,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.scalaCompilerClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.scalacPluginClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.compile",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.localClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.runIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.upstreamAssemblyClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.runClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.forkWorkingDir",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "cookbook.test.test",
+        "millis": 2878,
+        "cached": false
+    }
+]

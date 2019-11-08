@@ -1,0 +1,8 @@
+{
+    "value": {
+        "analysisFile": "/Users/kabiridris/scala-cookbook/mill-simple-app/out/cookbook/test/compile/dest/zinc",
+        "classes": "ref:417d5c9f:/Users/kabiridris/scala-cookbook/mill-simple-app/out/cookbook/test/compile/dest/classes"
+    },
+    "valueHash": 1276364647,
+    "inputsHash": 1604490229
+}

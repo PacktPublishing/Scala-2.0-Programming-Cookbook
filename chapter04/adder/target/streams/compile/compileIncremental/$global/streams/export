@@ -1,0 +1,1 @@
+scalac -classpath /home/binkabir/repo/adder/target/scala-2.12/classes -bootclasspath /home/binkabir/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar /home/binkabir/repo/adder/src/main/scala/com/cookbook/Adder.scala

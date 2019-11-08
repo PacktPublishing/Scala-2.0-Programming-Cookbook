@@ -1,0 +1,10 @@
+{
+    "value": [
+        {
+            "analysisFile": "/Users/kabiridris/scala-cookbook/mill-temp-logger/out/core/compile/dest/zinc",
+            "classes": "ref:c984eca8:/Users/kabiridris/scala-cookbook/mill-temp-logger/out/core/compile/dest/classes"
+        }
+    ],
+    "valueHash": 806029886,
+    "inputsHash": 1846456257
+}

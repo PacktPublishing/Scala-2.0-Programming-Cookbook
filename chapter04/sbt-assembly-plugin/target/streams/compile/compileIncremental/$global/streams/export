@@ -1,1 +1,0 @@
-scalac -classpath /Users/kabiridris/scala-cookbook/sbt-docker-plugin/target/scala-2.12/classes -bootclasspath /Users/kabiridris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar /Users/kabiridris/scala-cookbook/sbt-docker-plugin/src/main/scala/com/cookbook/Main.scala
